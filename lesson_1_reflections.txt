@@ -1,0 +1,22 @@
+		REFLECTIONS
+
+q:How did viewing a diff between two versions of a file help you see the bug that was introduced?
+ans:it identified with change in parameter and parameter that doesn't match with previous one .
+what are the changes applied to it .
+
+how could having easy acces to the entire history of afile make you a more efficient programmer in the long term?
+
+ans : it helps in bug fixing as well as better managing techniques when working with groups.
+organises stuffs quiet efficiently .
+
+what do you think are the pros and cons of manually choosing when to create a commit ,like you do in git , vs having versions automatically saved, like Google docs does?
+
+ans:Pros:
+it gives a better command over whether to add changes to the existing file or not .
+a better understanding of what changes can produce .
+
+cons :
+user need to always be aware of whether the version is being saved or not before any further step or due to some failure they can loose the file
+
+what do you think some version control systems, like Git,allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+

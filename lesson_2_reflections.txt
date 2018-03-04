@@ -1,0 +1,6 @@
+what happens when you intiallize a repository?
+what is the need of git repository
+
+when we intiallize it creates a .git folder without any files inside it or any commit specifically
+
+git repository is required for changes to track .
