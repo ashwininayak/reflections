@@ -35,6 +35,6 @@ version control like git gives us freedom to make change without being worried a
 
 Q:Now that you have your workspace set up, what do you want to try using Git for?
 
-I would like to collaborate with other programmers for working on a single project . Personally i can use git as my assistant to keep track of my versions with much woried about how new experiment will result into .
+I would like to collaborate with other programmers for working on a single project . Personally i can use git as my assistant to keep track of my versions without much worried about how new experiment will result into .
 
 
